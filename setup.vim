@@ -35,5 +35,7 @@ source ~/AppData/Local/nvim/plugins/automaton.lua.vim
 "
 source ~/AppData/Local/nvim/plugins/cellular-automaton.lua.vim
 
+source ~/AppData/Local/nvim/neovide.vim
+
 " load mapping at the end
 source ~/AppData/Local/nvim/mapping.vim
